@@ -1,0 +1,9 @@
+1. Passion, dedication, attention to detail; pick all three
+1. Quality, Time, Cost; pick two
+1. Fail fast, fail loud, fail proud, fix fast
+1. Only concentrate on one thing at a time; "ichigyo-zammai"
+1. Don't shame failure, shame never learning from failures
+1. Trust but verify
+1. Talk is cheap, show me the code
+1. Talk is cheap, show me the data
+1. If you get knocked down, stay there for a bit and plan dodging the next hit
