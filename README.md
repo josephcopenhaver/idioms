@@ -10,3 +10,4 @@
 1. If you do not know why you are doing something, stop immediately and ask...
 1. Shared Vision = Understanding + Commitment.  It is not Consensus
 1. If you are not improving, you are at least falling behind.
+1. Strong opinions should be weakly held and tempered by reality
