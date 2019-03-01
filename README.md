@@ -9,3 +9,4 @@
 1. If you get knocked down, stay there for a bit and plan dodging the next hit
 1. If you do not know why you are doing something, stop immediately and ask...
 1. Shared Vision = Understanding + Commitment.  It is not Consensus
+1. If you are not improving, you are at least falling behind.
