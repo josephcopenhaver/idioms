@@ -25,5 +25,5 @@
 1. If you depend on a third party's api or website and don't test it regularly, you eventually will need to do so, hopefully before everything breaks.
 1. You move as fast as your slowest component, you change as fast as your tests, you replace something as fast as you loadtest, you make money proportional to the number of satisfied customers, and you revert as much as you skip one of these concerns.
 1. The internet is dark and full of terrors, bring a firewall.
-1. You can only trust client side data if you can prove it was signed server side, verified by your servers, and written in blood.
+1. You can only trust client side data if you can prove it was signed server side, verified by your servers before signed, and written in blood.
 1. All software has an expiration date, embrace it.
