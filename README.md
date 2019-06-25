@@ -23,3 +23,4 @@
 1. If you have clients that don't verify version compatability with a server, I hate you, and you will hate yourself too soon.
 1. When working in parallel to assemble a new prototype, create your interface contracts asap and clearly get ackowledgements from all parties when a spec needs to change.
 1. If you depend on a third party's api or website and don't test it regularly, you eventually will need to do so, hopefully before everything breaks.
+1. You move as fast as your slowest component, you change as fast as your tests, you replace something as fast as you loadtest, and you revert as much as you skip one of these concerns.
