@@ -1,3 +1,4 @@
+1. Fall in love with the problem, not your solution to it.
 1. Passion, dedication, attention to detail; pick all three
 1. Quality, Time, Cost; pick two
 1. Fail fast, fail loud, fail proud, fix fast
@@ -16,3 +17,9 @@
 1. Share your mistakes, more importanly share what you have learned from them.
 1. If you can write down a process, you can automate the process. Prove me wrong.
 1. Ask if a standard exists and analyze adoption before you make a new one.
+1. If you make a file format without a version indicator, you have made a big mistake.
+1. If you do not unit test your file format versions, you have made an unforgivable mistake.
+1. If you don't version your api endpoints, you eventually will.
+1. If you have clients that don't verify version compatability with a server, I hate you, and you will hate yourself too soon.
+1. When working in parallel to assemble a new prototype, create your interface contracts asap and clearly get ackowledgements from all parties when a spec needs to change.
+1. If you depend on a third party's api or website and don't test it regularly, you eventually will need to do so, hopefully before everything breaks.
