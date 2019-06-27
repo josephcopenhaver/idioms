@@ -28,3 +28,4 @@
 1. You can only trust client side data if you can prove it was signed server side, verified by your servers before signed, and written in blood.
 1. There is a difference between fixing something that is not broken and fixing something that is not understandable. Embrace the latter.
 1. All software has an expiration date, embrace it.
+1. If it was easy, everyone would be doing it.
