@@ -28,4 +28,8 @@
 1. You can only trust client side data if you can prove it was signed server side, verified by your servers before signed, and written in blood.
 1. There is a difference between fixing something that is not broken and fixing something that is not understandable. Embrace the latter.
 1. All software has an expiration date, embrace it.
+1. An estimate without a confidence metric must be treated like a wild ass guess.
+1. If you truly love something be a steward of it, even if it means you will lose agency over it.
+1. You can give without loving, but you can never love without giving. - Robert Louis Stevenson
+1. If you don't provide a date someone else will.
 1. If it was easy, everyone would be doing it.
