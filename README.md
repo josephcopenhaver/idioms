@@ -1,3 +1,5 @@
+1. Have confidence in the competency you have gained through your mistakes, the humility to keep making them, and the empathy to let others do the same
+1. Keep evaluating what must be true for your goals to be met, then seek the sponsorship, agency, and co-actors to execute
 1. Fall in love with the problem, not your solution to it.
 1. Passion, dedication, attention to detail; pick all three
 1. Quality, Time, Cost; pick two
